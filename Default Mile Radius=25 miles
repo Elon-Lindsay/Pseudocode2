@@ -1,0 +1,14 @@
+Default Mile Radius=25 miles
+Data=Title, proximity, and description of event
+
+When starting up the app
+If location services are not on,
+	notify the user and ask for them to be turned on.
+
+While locating user
+	retrieve data from default radius
+
+Display data showing the closest first.
+
+If no more events within radius
+	display "no more results"
