@@ -1,0 +1,8 @@
+System Data= event date and time, event name, and event location, event type
+Default city raduis= 25 miles
+Filters= city radius, event type, date and time
+
+If the locating features on the app is turned off, turn the location on.
+	Allow application to geolocate the user on a map.
+If user click on filter, allow them to choose specific searches. 
+Display results in the city as they appear.
